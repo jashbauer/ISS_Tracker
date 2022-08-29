@@ -10,8 +10,8 @@ MY_LOCATION = (MY_LONGITUDE, MY_LATITUDE)
 TOLERANCE = 5.0  # Tolerance rate for changes in ISS movement
 
 
-MY_EMAIL = "brunopyth@gmail.com"
-PASSWORD = "ltjdaborsnbgesgj"
+MY_EMAIL = "your_gmail@gmail.com"
+PASSWORD = "xxxxxxxxxxxxxxxxx"
 
 REFRESH_TIME = 30
 
